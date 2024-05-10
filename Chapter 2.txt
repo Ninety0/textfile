@@ -1,0 +1,32 @@
+Chapter 2
+REVIEW OF THE RELATED LITERATURE AND STUDIES
+
+TECHNICAL BACKGROUND
+	The development of a modern web-based water billing system at Katarungan Village Office uses several technologies and software tools to guarantee that the output of the system is efficient and effective during the deployment. In developing the system proponents will use one of the Microsoft Technologies, the ASP.Net Core MVC it is a framework that is based on C# programming language and to use this technology the IDE that proponents will use is Visual Studio 2022. This website uses a Model View Controller (MVC) design pattern or architecture that allows for separation of concern, it separates the logic from the design for much easier maintenance, scalability, and flexibility. In creating the Front-End or layout of the page proponents use HyperText Markup Language (HTML) for creating the layout of the page, bootstrap 5 uses cascading style sheet (CSS) and javascript (js) for fast building responsive site, and visual appeal, and to reduce the time-consuming task in designing, and Javascript (JS) for the interactivity on the website. In addition to that proponents will use Jquery to use JS easily and Ajax to make the webpage asynchronous.
+	
+
+
+
+
+
+RELATED LITERATURE
+
+
+
+RELATED STUDIES
+
+
+DEFINITION OF TERMS
+
+
+
+
+
+
+
+REFERENCES
+
+[1] D. Kawecki, "Fuel preparation," in Combustion Engineering Issues for Solid Fuel Systems, B.G. Miller and D.A. Tillman, Eds. Boston, MA: Academic Press, 2008, 199-240. [Online] Available: Referex.
+
+
+
